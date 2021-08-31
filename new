@@ -1,3 +1,6 @@
 var number
 var number_two
-consol.log(2 + 2 = 5)
+console.log(2 + 2 = 5)
+console.log(no it = 4)
+console.log(you are right 2 + 2 does = 4)
+console.log(yes I was right)
